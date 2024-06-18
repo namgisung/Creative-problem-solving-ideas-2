@@ -1,4 +1,4 @@
-# program-simulation
+# Creative-problem-solving-ideas-2
 
 **Dijketra 알고리즘**
 
